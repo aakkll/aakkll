@@ -9,7 +9,13 @@
   <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakkll&theme=vue"/>
 </div>
   
-  
-  ![Snake animation](https://github.com/aakkll/aakkll/blob/output/github-contribution-grid-snake.svg)
+  <!-- Snake Code Contribution Map -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/aakkll/aakkll/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/aakkll/aakkll/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/aakkll/aakkll/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+</div>
  
     
